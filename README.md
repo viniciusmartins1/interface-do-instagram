@@ -1,2 +1,2 @@
 # interface-do-instagram
-HTML | CSS | Recrinadnp
+HTML | CSS | Recriando a página inicial do Instagram.
