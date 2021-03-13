@@ -1,5 +1,5 @@
 # Recriando a Interface do Instagram
-- Esse projeto foi desenvolvido durante meus estudos na plataforma da [Digital Innovation One](digitalinnovatioone.com.br).
+- Esse projeto foi desenvolvido durante meus estudos na plataforma da [Digital Innovation One](https://digitalinnovation.one/sign-in).
 
 - Para o desenvolvimento do programa foi ultilizado: HTML e CSS.
 
